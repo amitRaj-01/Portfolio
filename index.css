@@ -245,10 +245,6 @@ nav a{
     margin-right: 5px;
 }
 
-/* ===============================
-   RESPONSIVE DESIGN
-   =============================== */
-
 /* For large tablets and small laptops */
 @media (max-width: 1024px) {
   .main-container {
